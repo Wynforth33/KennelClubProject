@@ -1,0 +1,28 @@
+{
+  "name": "KennelClubProject",
+  "version": "1.0.0",
+  "description": "Author: Matt Basile - Matts Lambda Minutes\r https://medium.com/matts-lambda-minutes/lets-build-a-fullstack-app-with-javascript-episode-1-f63a4fa4700e Project as outlined by this article.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "knex": "^0.16.3",
+    "nodemon": "^1.18.10",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wynforth33/KennelClubProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wynforth33/KennelClubProject/issues"
+  },
+  "homepage": "https://github.com/Wynforth33/KennelClubProject#readme"
+}
